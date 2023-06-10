@@ -1,0 +1,13 @@
+name = "Mo' Structures"
+filename = "mostructures-1.4.3+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PTGd6dWp/versions/ZlwA2G0d/mostructures-1.4.3%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "024066dd3d1f339b6687ce93b40185318298cf66"
+
+[update]
+[update.modrinth]
+mod-id = "PTGd6dWp"
+version = "ZlwA2G0d"

@@ -1,0 +1,13 @@
+name = "When Dungeons Arise"
+filename = "DungeonsArise-1.19.4-2.1.54-fabric-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8DfbfASn/versions/SaXz7vvj/DungeonsArise-1.19.4-2.1.54-fabric-beta.jar"
+hash-format = "sha1"
+hash = "ec8475e16fcc62fb5270214c2e95af96bc97d2f0"
+
+[update]
+[update.modrinth]
+mod-id = "8DfbfASn"
+version = "SaXz7vvj"

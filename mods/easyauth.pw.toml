@@ -1,0 +1,13 @@
+name = "EasyAuth"
+filename = "easyauth-mc1.19.4-3.0.0-15.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/aZj58GfX/versions/GWjihQlW/easyauth-mc1.19.4-3.0.0-15.jar"
+hash-format = "sha1"
+hash = "6b58037ece741d16f7db5173b9c5918765725396"
+
+[update]
+[update.modrinth]
+mod-id = "aZj58GfX"
+version = "GWjihQlW"

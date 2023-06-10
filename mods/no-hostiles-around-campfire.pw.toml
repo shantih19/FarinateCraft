@@ -1,0 +1,13 @@
+name = "No Hostiles Around Campfire"
+filename = "nohostilesaroundcampfire-1.19.4-5.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EJqeyaVz/versions/p4XSBeFS/nohostilesaroundcampfire-1.19.4-5.6.jar"
+hash-format = "sha1"
+hash = "c9bd4087ead27939fdfd3b672171639ee2c507de"
+
+[update]
+[update.modrinth]
+mod-id = "EJqeyaVz"
+version = "p4XSBeFS"

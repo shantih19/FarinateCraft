@@ -1,0 +1,13 @@
+name = "Essential Commands"
+filename = "essential_commands-0.33.1-mc1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6VdDUivB/versions/NidpcqPM/essential_commands-0.33.1-mc1.19.4.jar"
+hash-format = "sha1"
+hash = "45e95c0f503f0437a55c12344514c10f847272c4"
+
+[update]
+[update.modrinth]
+mod-id = "6VdDUivB"
+version = "NidpcqPM"

@@ -1,0 +1,13 @@
+name = "Grass Seeds"
+filename = "grassseeds-1.19.4-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y6d4uRJn/versions/ngDwq6xF/grassseeds-1.19.4-3.0.jar"
+hash-format = "sha1"
+hash = "0f9cc3a428616388c491ecd8fefd12bd764182fb"
+
+[update]
+[update.modrinth]
+mod-id = "Y6d4uRJn"
+version = "ngDwq6xF"
