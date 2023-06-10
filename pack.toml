@@ -1,0 +1,16 @@
+name = "UwUcraft"
+author = "shantih19"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "26ae6907452c474b56d83230e133654bb08cd129351c083f96c22b748b538048"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.4"
+
+[options]
+acceptable-game-versions = ["1.19.4"]

@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "c72f13f6990093934c93a5633fab38cedd97012f374d0716ddd3cf1e79094a37"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "90fa141fc54ad36d06304d1eb8df32fd7fa6719db3cd5ead980170f2c26fe3f9"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "114a5ff78e24bc0794339becc35fc54c62c37e1b1122b9ce1aa5c7225cc1493a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "78e5ad156b8c0619fe9b2603c3d26423985c4f8437dfce3dcdce4d7463a1ca79"
+metafile = true
