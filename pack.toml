@@ -1,12 +1,12 @@
 name = "UwUcraft"
 author = "shantih19"
-version = "0.0.2"
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "92218c7c83f9dfa378b65d1fa48432dd07217db5d28265126b907d35b6db17fe"
+hash = "8d05ad6031a88cc97e35fa4542c59b8469567ff010c748f695a0bf12e119feca"
 
 [versions]
 fabric = "0.14.21"
