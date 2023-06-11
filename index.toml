@@ -296,10 +296,6 @@ hash = "cb4eea0464bb257ae9c2fc4bf62d91d87b680ab4323f2a968a3aad144f88d549"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-refresh-1.4.14a.jar"
-hash = "bc5ec1ff0645d41d85dc78687b6a05a8daffb0e7ba9452992bbb99786086efe0"
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "19ba133d1b2c580181aa3011c5b7087fcab01b767060ed3ca43929571dc5af1a"
 metafile = true
