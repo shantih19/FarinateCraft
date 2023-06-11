@@ -146,11 +146,6 @@ hash = "8cd263da2b2ee411248ffce02ff8653c945aa5fbd55010ef603b14e72498a329"
 metafile = true
 
 [[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "7f8f5be667b8fb33c6b4ab56af32e63748d482a70b0b60af869022c5ce18800f"
-metafile = true
-
-[[files]]
 file = "mods/invview.pw.toml"
 hash = "fc6c71feb98476fa7cc0c683a52993bc751772171372fde95b0d823da0c6a2b7"
 metafile = true
