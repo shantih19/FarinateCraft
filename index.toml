@@ -295,10 +295,10 @@ file = "mods/universal-graves.pw.toml"
 hash = "cb4eea0464bb257ae9c2fc4bf62d91d87b680ab4323f2a968a3aad144f88d549"
 metafile = true
 
+#Edit permitted by license: https://github.com/SpluoSplatus/Vanilla-Refresh/wiki/License
 [[files]]
-file = "mods/vanilla-refresh.pw.toml"
-hash = "93bf9fd76c36b971803bb4012e835aa8d555ffe00dc01db44b102d5b60010ebc"
-metafile = true
+file = "mods/vanilla-refresh-1.4.14a.jar"
+hash = "835d39ac87d989acaabf2c6c5110b7bd9a25a6edab44b3f208031f82a9bdb83f"
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
