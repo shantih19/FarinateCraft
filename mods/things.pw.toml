@@ -1,0 +1,13 @@
+name = "Things"
+filename = "things-0.3.0+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VzAGdu9D/versions/XoKlERtL/things-0.3.0%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "971874091c0b90beaada23d36fb9197f4d00f538"
+
+[update]
+[update.modrinth]
+mod-id = "VzAGdu9D"
+version = "XoKlERtL"

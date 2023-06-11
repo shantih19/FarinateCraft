@@ -1,0 +1,13 @@
+name = "Immersive Armors"
+filename = "immersive_armors-1.5.5+1.19.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eE2Db4YU/versions/NuQuRX6P/immersive_armors-1.5.5%2B1.19.4-fabric.jar"
+hash-format = "sha1"
+hash = "00af9bfab28e7dabaa4f08941ad0e0178691d78b"
+
+[update]
+[update.modrinth]
+mod-id = "eE2Db4YU"
+version = "NuQuRX6P"

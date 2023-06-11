@@ -1,0 +1,13 @@
+name = "Twigs"
+filename = "twigs-3.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RG50cUrX/versions/6Q3mryfg/twigs-3.0.0-fabric.jar"
+hash-format = "sha1"
+hash = "9a1fbc4e931692b595d9b4f63c562e3976bfb7ee"
+
+[update]
+[update.modrinth]
+mod-id = "RG50cUrX"
+version = "6Q3mryfg"

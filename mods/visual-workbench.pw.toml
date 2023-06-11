@@ -1,0 +1,13 @@
+name = "Visual Workbench"
+filename = "VisualWorkbench-v6.0.1-1.19.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kfqD1JRw/versions/VqvvjhAR/VisualWorkbench-v6.0.1-1.19.4-Fabric.jar"
+hash-format = "sha1"
+hash = "9b0e6de1a9a450db6b24927ed9d0365d15ccb7cf"
+
+[update]
+[update.modrinth]
+mod-id = "kfqD1JRw"
+version = "VqvvjhAR"

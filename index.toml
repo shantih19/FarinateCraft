@@ -16,6 +16,11 @@ hash = "63a98a539356af7c16641202f4a5e8f3883f66d58f2579b731becae265995a2e"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "32ae20dd46961619355bd4c6aca52dbac7d9aa6d5680a26bf29bec38ff3690c0"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "9f787016e772d10343a5d1ffcc30019a722659e6e7c9f658407d354283b24286"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "53992e517f6111825acd7b19d72b4c6aab128e6104a2b08066a3920f5b78b460"
 metafile = true
 
 [[files]]
@@ -106,8 +116,18 @@ hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "678ecc9241860f54aa51acc300dcec18d96322bb593a2db6574e7de952d6038f"
+metafile = true
+
+[[files]]
 file = "mods/grass-seeds.pw.toml"
 hash = "30a65b6309b8cc75de6eff1a82b85bed3b61617d2c2db6a30c4a97c2e4f233ca"
+metafile = true
+
+[[files]]
+file = "mods/happiness-is-a-warm-gun.pw.toml"
+hash = "b3c67f2051aab30cfdb284ba33a887b837cff71d90dc2ead2cab91b363ca0512"
 metafile = true
 
 [[files]]
@@ -116,8 +136,18 @@ hash = "dab6e304d26c6fb4a9e144bbdf3ce61e5036e5f77052bf083d60ad36d8467041"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "f813e2e42902ab9f0c3e1b2ac982d12ba71854b0352144f7f0c3d4a076ae2741"
+metafile = true
+
+[[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "8cd263da2b2ee411248ffce02ff8653c945aa5fbd55010ef603b14e72498a329"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "7f8f5be667b8fb33c6b4ab56af32e63748d482a70b0b60af869022c5ce18800f"
 metafile = true
 
 [[files]]
@@ -161,6 +191,11 @@ hash = "f7726099f6dff581ee54bba70fb3ea531dfc492e8b51f9cd2f7737f1df99985d"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "9751fac0f672b632c9d249528c2749769b8edb3e3e880ac82c583723a7e11937"
+metafile = true
+
+[[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "1f9de717a31423f1464e7553c30f3b2a7a8c4ffe441373c917445b69f64fef12"
 metafile = true
@@ -196,13 +231,33 @@ hash = "0de96fcc01c934e434f2f31190816271e394a5659485bd1a1d384059b5e7d450"
 metafile = true
 
 [[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "7ba36f832275607c7f98ccdbf26ff79491e580dd39ac6d2ef5699079140647e3"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "3c2dbfec06c4a91043f91b7f79b8c684149e651a8e104a4cdce81b181ef4f71c"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "9d6bf8335bffe88c5b8abfc25fbeebec7dd873c472eb49380ffd99a16bc092bf"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "4e2d3903883e4b035bfd26d03afb0c3ce2c22375bb385b8dff3aa1a9d3314d77"
+metafile = true
+
+[[files]]
 file = "mods/sleep-warp.pw.toml"
 hash = "9fe24c071d4a765f331a7dea33ef62c361bc7f43071f69796d7b97697401e1aa"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "d52b065858601e96e4cc73d404e20e9da7e572ba29554091d61df051f55bec51"
 metafile = true
 
 [[files]]
@@ -216,6 +271,31 @@ hash = "b7436c50cce20366a626a527f77f15b0119586ce8071882c85c6fd6f63c06b2b"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
+metafile = true
+
+[[files]]
+file = "mods/things.pw.toml"
+hash = "8ec7fd93e3b7981c363e79dbcdf6bd5f0668052dd3b81de696ed2ed0efac52aa"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "6b31cb2e4fcc8f84630871bdd911b26b2c4f560c43e4b42f002ebd35bf830282"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "168d832a826225e12f84d31bc10ddf3f7f21c75c4c25bdc975a3381dcb17fd15"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "e6ddbf003262eb1e7e9c04b9592a476105e4d43babda0a2c3d442e9d61853b65"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "cb4eea0464bb257ae9c2fc4bf62d91d87b680ab4323f2a968a3aad144f88d549"
 metafile = true
@@ -223,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "93bf9fd76c36b971803bb4012e835aa8d555ffe00dc01db44b102d5b60010ebc"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "19ba133d1b2c580181aa3011c5b7087fcab01b767060ed3ca43929571dc5af1a"
 metafile = true
 
 [[files]]
