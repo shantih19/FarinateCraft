@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-refresh-1.4.14a.jar"
-hash = "835d39ac87d989acaabf2c6c5110b7bd9a25a6edab44b3f208031f82a9bdb83f"
+hash = "bc5ec1ff0645d41d85dc78687b6a05a8daffb0e7ba9452992bbb99786086efe0"
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
