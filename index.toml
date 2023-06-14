@@ -36,6 +36,16 @@ hash = "9f787016e772d10343a5d1ffcc30019a722659e6e7c9f658407d354283b24286"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "4a9fba9e73d7c959bdf730d556f5f5e282fdf2dbdcccc82c1dd5c335d6e7a4d5"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "9f3901f019b7a6de64efb06be653da94b86c1d8632f7c4473c827d43be89a11b"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "53992e517f6111825acd7b19d72b4c6aab128e6104a2b08066a3920f5b78b460"
 metafile = true
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "cfd33bc9df668d6ff0f21752fcd84f3e4210c2bf0a4babe65983f8e45e3d7a4c"
+metafile = true
+
+[[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "ea2519df1c0b319e8ccb9b8a14e683e61fa502afa38871f942312b52837ab6cc"
 metafile = true
 
 [[files]]
@@ -81,6 +96,11 @@ hash = "cdd7a5a25ae629e738549d7005f47d8dc2a3d056400fb284aabc276ca95040e9"
 metafile = true
 
 [[files]]
+file = "mods/experience-bottler.pw.toml"
+hash = "add5921eac79a7cddfdc299446f8f35f9cddfae4aa767095362928421ee9e877"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "b6a43638d6f3e40db516964ba9fa1dcdbe2851d3b39b1a91a977eefc7f237480"
 metafile = true
@@ -91,8 +111,23 @@ hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "17ff865ba4aaa89aa1b6b8d6d3eda194b80b5e38d11ca6e7a7b81b2792272185"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "8a2cbcce162a51f67cc58d221a2bc1f1ff28babbc567608f540fcafc2dc3dee6"
+metafile = true
+
+[[files]]
+file = "mods/fabricautocrafter.pw.toml"
+hash = "6d51b6c2e81275f1581642652fe1cb901afc837fbbeade5a09e369c7e1dc4f49"
 metafile = true
 
 [[files]]
@@ -156,6 +191,11 @@ hash = "b85e2114b356e44ba8f1392cc6f85629c7062b1c76759c949e49ac5605d0bd6c"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "361161961e41e0e753b23103c94a3f542ce65e0c59fef0d6ac2e14cca9d67e24"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "166e9c1b7065997daec0a910789b05e8350cc90d56beeb9b85b53c498ae71ab8"
 metafile = true
@@ -173,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/log-cleaner.pw.toml"
 hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
+metafile = true
+
+[[files]]
+file = "mods/logic-gates-fabric.pw.toml"
+hash = "cfa50ba5d9e3de00326c98440b360eeccacb1576401c71595f1c4eaa42af4651"
 metafile = true
 
 [[files]]
@@ -236,6 +281,11 @@ hash = "3c2dbfec06c4a91043f91b7f79b8c684149e651a8e104a4cdce81b181ef4f71c"
 metafile = true
 
 [[files]]
+file = "mods/redstone-multimeter.pw.toml"
+hash = "aa730c44114763e7593a17ec57de7e216438a0632fedabfc051c18d46ea61059"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "9d6bf8335bffe88c5b8abfc25fbeebec7dd873c472eb49380ffd99a16bc092bf"
 metafile = true
@@ -246,8 +296,18 @@ hash = "4e2d3903883e4b035bfd26d03afb0c3ce2c22375bb385b8dff3aa1a9d3314d77"
 metafile = true
 
 [[files]]
+file = "mods/simple-pipes.pw.toml"
+hash = "367ba2a61a9377c35f74f9c08677261bfad6b2c8ef5967618908d60a17d8bfab"
+metafile = true
+
+[[files]]
 file = "mods/sleep-warp.pw.toml"
 hash = "9fe24c071d4a765f331a7dea33ef62c361bc7f43071f69796d7b97697401e1aa"
+metafile = true
+
+[[files]]
+file = "mods/slotlink.pw.toml"
+hash = "cae1d075f7dc886273b32c5f5d77d418110a40b43790908dd22f4d529194f0f5"
 metafile = true
 
 [[files]]
@@ -266,6 +326,16 @@ hash = "b7436c50cce20366a626a527f77f15b0119586ce8071882c85c6fd6f63c06b2b"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "9786ed7a4a961fbf6035899628390b289cef33365588d3550ab147cba7fc8d39"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "f1468c1675beab25b88b5e0872d8dcd78691444e6256f2e88439ef4345502103"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
 metafile = true
@@ -273,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/things.pw.toml"
 hash = "8ec7fd93e3b7981c363e79dbcdf6bd5f0668052dd3b81de696ed2ed0efac52aa"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "cbd9e285f037bce8e1c3498535d07cef8c6a97729c90b869ca822bae247dbb2b"
 metafile = true
 
 [[files]]
@@ -308,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "6d0a09855b75a35d11128dd758009709b64ba841d5b865789c72b3df2f523935"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "b2dc3db7670e7b3a42da21fde868c9daf3c602f2ad88d16130c1e9944f0633b9"
 metafile = true
 
 [[files]]
