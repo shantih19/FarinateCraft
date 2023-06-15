@@ -16,6 +16,11 @@ hash = "63a98a539356af7c16641202f4a5e8f3883f66d58f2579b731becae265995a2e"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6b76641118d0d86d838f5eb45f333d636e12e930598b857973e4b57b7a374e9b"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "32ae20dd46961619355bd4c6aca52dbac7d9aa6d5680a26bf29bec38ff3690c0"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/editsign.pw.toml"
 hash = "f79066b3ffea3422060184f8a8b5dd68faa51f987c27ed92f5aca9fb46009ffd"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a29a6474aff0264882b7e6e010d8beadfb3291e361d171aebb0cb158f4892812"
 metafile = true
 
 [[files]]
@@ -191,11 +201,6 @@ hash = "b85e2114b356e44ba8f1392cc6f85629c7062b1c76759c949e49ac5605d0bd6c"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "361161961e41e0e753b23103c94a3f542ce65e0c59fef0d6ac2e14cca9d67e24"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "166e9c1b7065997daec0a910789b05e8350cc90d56beeb9b85b53c498ae71ab8"
 metafile = true
@@ -286,6 +291,11 @@ hash = "aa730c44114763e7593a17ec57de7e216438a0632fedabfc051c18d46ea61059"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "05723068a1745bc41a87562915fa04582934fde82e61c64ccffec0e66731a0c8"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "9d6bf8335bffe88c5b8abfc25fbeebec7dd873c472eb49380ffd99a16bc092bf"
 metafile = true
@@ -298,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/simple-pipes.pw.toml"
 hash = "367ba2a61a9377c35f74f9c08677261bfad6b2c8ef5967618908d60a17d8bfab"
-metafile = true
-
-[[files]]
-file = "mods/sleep-warp.pw.toml"
-hash = "9fe24c071d4a765f331a7dea33ef62c361bc7f43071f69796d7b97697401e1aa"
 metafile = true
 
 [[files]]
