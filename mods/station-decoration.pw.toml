@@ -1,0 +1,13 @@
+name = "Station Decoration"
+filename = "MTR-MSD-Addon-fabric-1.19.4-3.2.2-1.3.4-enhancement-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AM3NyLOZ/versions/uckw2Zw0/MTR-MSD-Addon-fabric-1.19.4-3.2.2-1.3.4-enhancement-1.jar"
+hash-format = "sha1"
+hash = "37df38a806b25d989e6e9e4f34b952e98656fa66"
+
+[update]
+[update.modrinth]
+mod-id = "AM3NyLOZ"
+version = "uckw2Zw0"
