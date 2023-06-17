@@ -6,11 +6,6 @@ hash = "a676b0b14ed4ef17d47b7c073d48b2a0ed0284d27f09a6665098d43b66ccc5a3"
 metafile = true
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "ade1f5c8ad4503fd433410aca0ccdff26f8d38930b9c77805276f26d4b83ef62"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "63a98a539356af7c16641202f4a5e8f3883f66d58f2579b731becae265995a2e"
 metafile = true
@@ -308,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "7ba36f832275607c7f98ccdbf26ff79491e580dd39ac6d2ef5699079140647e3"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "93253ae808e417c2af4a0da83ed786b9f0e6e89e38f87db95d7df8f58ff6acd8"
 metafile = true
 
 [[files]]
