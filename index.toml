@@ -256,11 +256,6 @@ hash = "f7726099f6dff581ee54bba70fb3ea531dfc492e8b51f9cd2f7737f1df99985d"
 metafile = true
 
 [[files]]
-file = "mods/mcpitanlibarch.pw.toml"
-hash = "56345e43d03b93b90a7df62372dfd1ddf779fc2d3d3df182185cf30f8cb17542"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
@@ -321,11 +316,6 @@ hash = "93253ae808e417c2af4a0da83ed786b9f0e6e89e38f87db95d7df8f58ff6acd8"
 metafile = true
 
 [[files]]
-file = "mods/pipeplus.pw.toml"
-hash = "d32523db75ed211ff03eeb8e133658f6d996b656e227a2573e949ae3f93e874e"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "3c2dbfec06c4a91043f91b7f79b8c684149e651a8e104a4cdce81b181ef4f71c"
 metafile = true
@@ -348,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "4e2d3903883e4b035bfd26d03afb0c3ce2c22375bb385b8dff3aa1a9d3314d77"
-metafile = true
-
-[[files]]
-file = "mods/simple-pipes.pw.toml"
-hash = "367ba2a61a9377c35f74f9c08677261bfad6b2c8ef5967618908d60a17d8bfab"
 metafile = true
 
 [[files]]
