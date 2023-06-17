@@ -316,6 +316,11 @@ hash = "7ba36f832275607c7f98ccdbf26ff79491e580dd39ac6d2ef5699079140647e3"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "93253ae808e417c2af4a0da83ed786b9f0e6e89e38f87db95d7df8f58ff6acd8"
+metafile = true
+
+[[files]]
 file = "mods/pipeplus.pw.toml"
 hash = "d32523db75ed211ff03eeb8e133658f6d996b656e227a2573e949ae3f93e874e"
 metafile = true
