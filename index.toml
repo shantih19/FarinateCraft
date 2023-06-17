@@ -256,6 +256,11 @@ hash = "f7726099f6dff581ee54bba70fb3ea531dfc492e8b51f9cd2f7737f1df99985d"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "56345e43d03b93b90a7df62372dfd1ddf779fc2d3d3df182185cf30f8cb17542"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "79e728aa7d81f460b62b73d820b16796390c13951d6aca9e78347bc59f79e242"
 metafile = true
@@ -308,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "7ba36f832275607c7f98ccdbf26ff79491e580dd39ac6d2ef5699079140647e3"
+metafile = true
+
+[[files]]
+file = "mods/pipeplus.pw.toml"
+hash = "d32523db75ed211ff03eeb8e133658f6d996b656e227a2573e949ae3f93e874e"
 metafile = true
 
 [[files]]
