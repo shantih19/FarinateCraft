@@ -151,6 +151,11 @@ hash = "90fa141fc54ad36d06304d1eb8df32fd7fa6719db3cd5ead980170f2c26fe3f9"
 metafile = true
 
 [[files]]
+file = "mods/farinata.pw.toml"
+hash = "62e42c7bae354bf56ca80faeb04d4dd6dce51974bffdd0d8637e5f3f1132c52d"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true

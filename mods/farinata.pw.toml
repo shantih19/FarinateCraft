@@ -1,0 +1,13 @@
+name = "Farinata"
+filename = "farinata-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XoQmP6Jc/versions/KxqeZydO/farinata-1.0.0.jar"
+hash-format = "sha1"
+hash = "96b3c917ae532a6e69ebb6c87d4b2da1467f8040"
+
+[update]
+[update.modrinth]
+mod-id = "XoQmP6Jc"
+version = "KxqeZydO"
