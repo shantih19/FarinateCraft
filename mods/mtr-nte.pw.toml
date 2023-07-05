@@ -1,0 +1,13 @@
+name = "Nemo's Transit Expansion"
+filename = "MTR-NTE-fabric-1.19.4-0.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8pXSjgW8/versions/RdxupimH/MTR-NTE-fabric-1.19.4-0.3.3.jar"
+hash-format = "sha1"
+hash = "d64902b5e22f20e06ddbce774c42635086432afd"
+
+[update]
+[update.modrinth]
+mod-id = "8pXSjgW8"
+version = "RdxupimH"
