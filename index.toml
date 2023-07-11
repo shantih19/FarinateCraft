@@ -176,6 +176,11 @@ hash = "8c984b9f52ba18c0758716c156ee35f897ca4810542b7911361a2105c4da1ad8"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "23aced5c121895ace581f6b555c2878404283e544b2fb5c610ad4ad9688c4f5b"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
@@ -346,6 +351,11 @@ hash = "eb82b4b7d3bb20ac69cdac19263345a86c5c10e7d5b35bc54ceb08bff3c143eb"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "f782c75b52ab961e723d8c5a7754e2360335487b92228b4446b3385f11f2ba85"
+metafile = true
+
+[[files]]
 file = "mods/redstone-multimeter.pw.toml"
 hash = "1a6e7dddf80ae37cdeb79f9d610516d0bedba892b04b59a36d538e8fead8e48f"
 metafile = true
@@ -408,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "bce62b04f4de932e1305b11b3d3df7dd03b11ffc1e67bc1654eff862ac82ae27"
 metafile = true
 
 [[files]]
