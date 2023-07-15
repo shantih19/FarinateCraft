@@ -1,12 +1,12 @@
 name = "FarinateCraft"
 author = "shantih19"
-version = "0.3.0"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3fbf19b64de9c172b9cf93c384bb33c8b57de7c5ab2c3fc489fa08353bfe893d"
+hash = "62768e3ed20c2dfd54a81a165cb86bc75f2eeffcf031a7fd1a7c598e624f629e"
 
 [versions]
 fabric = "0.14.21"
