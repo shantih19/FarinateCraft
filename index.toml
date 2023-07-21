@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "fd4bb2cc9b1487ffa2831992aefd05e99c6e7e22ff74cb74f33095db6435e6e9"
+hash = "33dfb3f335b3aec8abe6b0c19c304d06cc71fa314ab965ae6b62309a138b5218"
 metafile = true
 
 [[files]]
@@ -152,12 +152,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8549f8fdb7d2eb89173efd1f03d750e15d1d984c215d075e83ba59a8e115b5b9"
+hash = "d553629aabc1e4d6730d5e9206805143622c38a06ac206ecb7caf816ad7689b3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "64fdbcb1466984455bf2897b08dbe7fbb887d111c68c0977a5f4e887c9321e23"
+hash = "4fab970b2f33c4843cb40730469884143b0e5dedff4b149ce518ac4d40f775cc"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "78e5ad156b8c0619fe9b2603c3d26423985c4f8437dfce3dcdce4d7463a1ca79"
+hash = "d18d104455a86bebd3f29deaf3458258674ea053d96e7b8fb5711cfea227fc20"
 metafile = true
 
 [[files]]
@@ -371,6 +371,11 @@ hash = "0de96fcc01c934e434f2f31190816271e394a5659485bd1a1d384059b5e7d450"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "1d791261858cd5142b28a1cc28cdce97d4130475a7d13e7dd3a9b9285d4c42c3"
+metafile = true
+
+[[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "7ba36f832275607c7f98ccdbf26ff79491e580dd39ac6d2ef5699079140647e3"
 metafile = true
@@ -397,12 +402,17 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "05723068a1745bc41a87562915fa04582934fde82e61c64ccffec0e66731a0c8"
+hash = "a7975ffff12402d56134acd58f27aa309430dbe1fb961cf1a6c9798202e657bb"
 metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "135bc946a52da94a866626b73e7b4ed3352aaeac1223dd08260250eb2e6cac23"
+metafile = true
+
+[[files]]
+file = "mods/sc-peripherals.pw.toml"
+hash = "5b59632d956e101e09c393f5d08fed0085005af45fbb0f45bbcb582cd0e295d5"
 metafile = true
 
 [[files]]
@@ -457,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "87e4ecf37bd2c1338b20cf445e170538fae9def3c01502a95b56c5fdd2ad4b02"
+hash = "133fb336202ef6efc43f96b779b3265ead5901451c3153d9ef01a5155a094594"
 metafile = true
 
 [[files]]
@@ -526,6 +536,11 @@ hash = "de7325f2b7d587eae0622b6e9d3dce6457c768d3bdb865cc45a007dc85c078cc"
 metafile = true
 
 [[files]]
+file = "mods/wireless-chargers.pw.toml"
+hash = "01628a0660bd3267cb7cc3182417baf290eda5c2458c68c93862749e547b94b9"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
-hash = "0adf81b43e5561f29ac10003f46bd607d77e28c8f382e5c3ec40bf561897aad1"
+hash = "dff8f1a79d65173f01290eb5b92ae6b5f914e823d6d25584b3cf4f6e0360752b"
 metafile = true

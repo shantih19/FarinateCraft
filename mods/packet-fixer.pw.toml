@@ -1,0 +1,13 @@
+name = "Packet Fixer (Forge/Fabric)"
+filename = "packetfixerfabric-1.1.2-1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/f75PLfQx/packetfixerfabric-1.1.2-1.19.4.jar"
+hash-format = "sha1"
+hash = "048a32556539fdbed4cde3679e6f304f8d713b99"
+
+[update]
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "f75PLfQx"
