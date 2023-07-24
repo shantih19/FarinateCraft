@@ -1,8 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "c73dce397277fed831be217448ed28e18732e76c360c4e93c113ea8a1e1129a5"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "a676b0b14ed4ef17d47b7c073d48b2a0ed0284d27f09a6665098d43b66ccc5a3"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "58599fae1077c6b2deb3519bea494667465f63027d7cf445cc88cc18517635ae"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "e6cd2d111beae6934394fbc7ae3c99dfefbad8e4a263c975690e278df8e808a5"
 metafile = true
 
 [[files]]
@@ -76,6 +90,16 @@ hash = "431f41f3b7e695e88e54dc4412ccc70131800b03ca940efa9c4a0f20c356eb3d"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "20bfcfebf298541cd3ed99bc41764c58f315129eb1ed17c18c388e5922f3676c"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1ce6d6922564da4116840ce60204adc2d691873059367b09084f9de7e898b4b4"
+metafile = true
+
+[[files]]
 file = "mods/copper-hopper.pw.toml"
 hash = "ea2519df1c0b319e8ccb9b8a14e683e61fa502afa38871f942312b52837ab6cc"
 metafile = true
@@ -83,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "7e0ec02000ba776be0bebc5b8f78d44368c2d4e58d145195106863e7e78e8699"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "b2a889278c3b05c9c9d4b8d38f63e1fca1420309b216b574cd9f5d91226fe302"
 metafile = true
 
 [[files]]
@@ -123,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/editsign.pw.toml"
 hash = "f79066b3ffea3422060184f8a8b5dd68faa51f987c27ed92f5aca9fb46009ffd"
+metafile = true
+
+[[files]]
+file = "mods/enhancedquarries.pw.toml"
+hash = "dda3e9220f62679fed64a78b28afb85c11214c41cd5bc8ad842ac4363831b116"
 metafile = true
 
 [[files]]
@@ -201,6 +235,11 @@ hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "22b5b816f2d36b6df6c65df396c2cb7191db382e96bfc0cac50c521453992857"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
@@ -221,6 +260,11 @@ hash = "30a65b6309b8cc75de6eff1a82b85bed3b61617d2c2db6a30c4a97c2e4f233ca"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "8c3f6af86ac9707b7408e0be545a7e72b82b4dd7ad6583be306517be573584cb"
+metafile = true
+
+[[files]]
 file = "mods/happiness-is-a-warm-gun.pw.toml"
 hash = "b3c67f2051aab30cfdb284ba33a887b837cff71d90dc2ead2cab91b363ca0512"
 metafile = true
@@ -228,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/healthcare.pw.toml"
 hash = "dab6e304d26c6fb4a9e144bbdf3ce61e5036e5f77052bf083d60ad36d8467041"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "4d3bfdc766ac5dc9179b1051a0a6aa4357cd7918fce07026f04d383b96f73018"
 metafile = true
 
 [[files]]
@@ -257,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-alchemy.pw.toml"
-hash = "d62b2f0f71852d4065a4e5028977c8e3e33c29f5fdfe3a08b20cfbec6673ca9c"
+hash = "f8b6b09a37def3cd56abbc3b21846df79d3e20cf7862216250e3081fef050479"
 metafile = true
 
 [[files]]
@@ -386,6 +435,11 @@ hash = "d32523db75ed211ff03eeb8e133658f6d996b656e227a2573e949ae3f93e874e"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "f572e6d256c0b89039db1ac239593e0f4d0027d3944a5c814dfdd6967da6fd35"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "eb82b4b7d3bb20ac69cdac19263345a86c5c10e7d5b35bc54ceb08bff3c143eb"
 metafile = true
@@ -406,6 +460,11 @@ hash = "a7975ffff12402d56134acd58f27aa309430dbe1fb961cf1a6c9798202e657bb"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "962cd768b495b2675e9f02779dd91f659956057d18bd0a70a36c6a20716dadd9"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "135bc946a52da94a866626b73e7b4ed3352aaeac1223dd08260250eb2e6cac23"
 metafile = true
@@ -413,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/sc-peripherals.pw.toml"
 hash = "5b59632d956e101e09c393f5d08fed0085005af45fbb0f45bbcb582cd0e295d5"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "9ada59dae64836137f116799f5e419c898b21dd339054e4454fc85d2c7aed926"
 metafile = true
 
 [[files]]
@@ -467,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "133fb336202ef6efc43f96b779b3265ead5901451c3153d9ef01a5155a094594"
+hash = "68b852cd3985edac6cb7f3119d2729617d8e5b0979f5beb525cb6a999c3ac396"
 metafile = true
 
 [[files]]
@@ -521,6 +585,11 @@ hash = "19ba133d1b2c580181aa3011c5b7087fcab01b767060ed3ca43929571dc5af1a"
 metafile = true
 
 [[files]]
+file = "mods/visuality.pw.toml"
+hash = "6952301f1ddadd8104cd6e7561c3eed10b75a85dc7f6d5bdb44a334f2bea5a70"
+metafile = true
+
+[[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "fa95ed896be9cf00e345f05c009b98f1e6b982f1ae307c77a48ef3efbd9149a5"
 metafile = true
@@ -543,4 +612,9 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "dff8f1a79d65173f01290eb5b92ae6b5f914e823d6d25584b3cf4f6e0360752b"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
